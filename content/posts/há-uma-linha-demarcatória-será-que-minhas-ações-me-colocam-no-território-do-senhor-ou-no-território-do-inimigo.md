@@ -10,6 +10,7 @@ categories:
 tags:
   - Obediência
   - Tentação
+  - Castidade
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: ''
