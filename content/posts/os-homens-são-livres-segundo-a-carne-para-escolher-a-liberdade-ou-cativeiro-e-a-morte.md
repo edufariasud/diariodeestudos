@@ -6,7 +6,7 @@ date: '2020-05-10T02:50:54-03:00'
 categories:
   - Livro de Mórmon
 tags:
-  - Obediencia
+  - Obediência
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: ''
