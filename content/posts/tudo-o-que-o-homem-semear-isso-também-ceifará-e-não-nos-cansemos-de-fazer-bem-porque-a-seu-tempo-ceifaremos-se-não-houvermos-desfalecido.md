@@ -1,7 +1,5 @@
 ---
-title: >-
-  Tudo o que o homem semear, isso também ceifará. E não nos cansemos de fazer
-  bem, porque a seu tempo ceifaremos, se não houvermos desfalecido.
+title: 'Tudo o que o homem semear, isso também ceifará.'
 date: '2020-05-01T12:05:59-03:00'
 categories:
   - Bíblia
