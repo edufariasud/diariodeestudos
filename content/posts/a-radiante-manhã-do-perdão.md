@@ -1,5 +1,5 @@
 ---
-title: "A Radiante Manhã do Perdão\P"
+title: A Radiante Manhã do Perdão
 date: '2020-05-31T17:15:16-03:00'
 categories:
   - Boyd K. Packer
@@ -7,9 +7,10 @@ categories:
 tags:
   - Arrependimento
   - Provação
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: top
-coverImage: ''
+thumbnailImage: /images/uploads/0857xd.jpg
+coverImage: /images/uploads/0857xd.jpg
 ---
 A Radiante Manhã do Perdão 
 
